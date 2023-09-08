@@ -1,0 +1,264 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.2/flowbite.min.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\ajax\libs\flowbite\1.6.2\flowbite.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtXK-F2qC0usEw.woff
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtXK-F2qC0usEw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtU.woff
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtU.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtXK-F2qC0s.woff
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtXK-F2qC0s.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtXK-F2qC0usEw.woff
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtXK-F2qC0usEw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtXK-F2qC0usEw.woff
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtXK-F2qC0usEw.woff
+Content Type: font/woff
+
+Uri: https://rsms.me/inter/font-files/Inter-Black.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Black.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-BlackItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Bold.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-BoldItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-ExtraBold.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-ExtraBoldItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-ExtraLight.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-ExtraLight.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-ExtraLightItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-ExtraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-italic.var.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-italic.var.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Italic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Light.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Light.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-LightItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Medium.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-MediumItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Regular.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-roman.var.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-roman.var.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-SemiBold.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-SemiBoldItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-Thin.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter-ThinItalic.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/font-files/Inter.var.woff2?v=3.19
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\font-files\Inter.var.woff2
+Content Type: font/woff2
+
+Uri: https://rsms.me/inter/inter.css
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\inter\inter.css
+Content Type: text/css
+
+Uri: https://support-blockchain.vercel.app/
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://support-blockchain.vercel.app/complaint.html
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\complaint.html
+Content Type: text/html
+
+Uri: https://support-blockchain.vercel.app/complaint.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\complaint.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/favicon.ico
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://support-blockchain.vercel.app/output.css
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\output.css
+Content Type: text/css
+
+Uri: https://support-blockchain.vercel.app/static/img/banner/banner-bg.svg
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\banner\banner-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://support-blockchain.vercel.app/static/img/down-arrow.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\down-arrow.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/favicon.ico
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://support-blockchain.vercel.app/static/img/home/home-hero-gradient.svg
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\home-hero-gradient.svg
+Content Type: image/svg+xml
+
+Uri: https://support-blockchain.vercel.app/static/img/home/homepage-app-shapes-bg@2x.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\homepage-app-shapes-bg@2x.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/homepage-exchange-shapes-bg@2x.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\homepage-exchange-shapes-bg@2x.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/homepage-explorer-shapes-bg@2x.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\homepage-explorer-shapes-bg@2x.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/homepage-institutional-shapes-bg@2x.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\homepage-institutional-shapes-bg@2x.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/app-connect-defi.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\app-connect-defi.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/app-earn-rewards.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\app-earn-rewards.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/app-ease.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\app-ease.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/app-self-custody.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\app-self-custody.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/prod-exchange-fiat-currencies.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\prod-exchange-fiat-currencies.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/home/products/prod-explore-blockchains-sm.png
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\home\products\prod-explore-blockchains-sm.png
+Content Type: image/png
+
+Uri: https://support-blockchain.vercel.app/static/img/spinningIcons.gif
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\static\img\spinningIcons.gif
+Content Type: image/gif
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/1311-167a9a49783e312a.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\1311-167a9a49783e312a.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/2202-5e8919f6705da1e4.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\2202-5e8919f6705da1e4.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/3899-06468ed7f1d5748e.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\3899-06468ed7f1d5748e.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/3920-9e00a86c305d1d10.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\3920-9e00a86c305d1d10.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/4116-1a12ee6cbeef047b.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\4116-1a12ee6cbeef047b.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/5883-cb4843a8b936a59d.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\5883-cb4843a8b936a59d.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/7842-7bdb0beaab10ff60.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\7842-7bdb0beaab10ff60.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/794-03c23cc98c1a47b8.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\794-03c23cc98c1a47b8.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/8666-6c4d3163a9b21cf4.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\8666-6c4d3163a9b21cf4.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/8989-cba1bdb258a76837.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\8989-cba1bdb258a76837.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/9224-0e8e1fefb03df683.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\9224-0e8e1fefb03df683.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/9972-2dbb48c59a19662c.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\9972-2dbb48c59a19662c.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/framework-79bce4a3a540b080.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\framework-79bce4a3a540b080.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/main-fa07688dd0696eba.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\main-fa07688dd0696eba.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/pages/index-a7efafd8515f0f69.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\pages\index-a7efafd8515f0f69.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/pages/_app-90276600c2dae8d1.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\pages\_app-90276600c2dae8d1.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/chunks/webpack-08da63de210c81e5.js
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\chunks\webpack-08da63de210c81e5.js
+Content Type: application/javascript
+
+Uri: https://support-blockchain.vercel.app/_next/static/css/98e8a879deec178c.css
+File Name: C:\Desktop\YJs\support-blockchain.vercel.app\_next\static\css\98e8a879deec178c.css
+Content Type: text/css
+
